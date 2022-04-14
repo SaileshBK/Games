@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nestedmargintop">10dp</dimen>
+    <dimen name="nestedpadding">10dp</dimen>
+    <dimen name="imageviewwidth">145dp</dimen>
+    <dimen name="imageviewheight">175dp</dimen>
+    <dimen name="textviewlayoutmarhin">10dp</dimen>
+    <dimen name="aaa">20sp</dimen>
+    <dimen name="sss">345dp</dimen>
+    <dimen name="sds">57dp</dimen>
+    <dimen name="zdx">71dp</dimen>
+</resources>

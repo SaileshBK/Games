@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="game_title">Game Title</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="download">Download</string>
+    <string name="user_name">User Name:</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="password">Password :</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="register">Register</string>
+    <string name="MarqueText">Sale ! Sale ! Sale ! Sale ! Sale Sale ! Sale ! Sale ! Sale ! Sale ! Sale ! Sale ! Sale ! Sale ! Sale !</string>
+
+    <string name="Game1">Grand Theft Auto V</string>
+    <string name="Game2">The Witcher</string>
+    <string name="Game3">Minecraft</string>
+    <string name="Game4">RD II</string>
+    <string name="Game5">Fallout 4</string>
+    <string name="Game6">Zelda</string>
+    <string name="Game7">The Phantom Pain</string>
+    <string name="Game8">No Man\'s Sky</string>
+    <string name="Game9">Assassin\'s Creed</string>
+    <string name="Game10">Horizon Zero</string>
+    <string name="Game11">Mad Max</string>
+
+    <string name="Category1">Open World</string>
+
+    <string name="Game3Description">Minecraft is a sandbox video game created by Swedish developer Markus Persson, released by Mojang in 2011 and purchased by Microsoft in 2014. It is the single best-selling video game of all time, selling over 180 million copies across all platforms by late 2019, with over 112 million monthly active players.</string>
+    <string name="Game1Description">Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the first main entry in the Grand Theft Auto series since 2008s Grand Theft Auto</string>
+    <string name="Game2Description">The Witcher 3: Wild Hunt[a] is a 2015 action role-playing game developed and published by CD Projekt and based on The Witcher series of fantasy novels by Andrzej Sapkowski. It is the sequel to the 2011 game The Witcher 2: Assassins of Kings, played in an open world with a third-person perspective. Players control protagonist Geralt of Rivia, a monster hunter (known as a witcher) who is looking for his missing adopted daughter on the run from the Wild Hunt, an otherworldly force determined to capture her and use her powers. Players battle the game\'s many dangers with weapons and magic, interact with non-player characters, and complete main-story and side quests to acquire experience points and gold, which are used to increase Geralt\'s abilities and purchase equipment. Its central story has several endings, determined by the player\'s choices at certain points in the game.Development began in 2011 and lasted for three and a half years. Voice recording took more than two and a half years. The writing was infused with realistic aspects such as moral ambiguity in an attempt to avoid simplification, impart authenticity, and reflect Sapkowski\'s novels. Central and Northern European cultures formed the basis of the game\'s world. REDengine 3 enabled the developer to create a complex story without compromising the game\'s open world. The music was composed by Marcin Przybyłowicz and performed by the Brandenburg State Orchestra. The Witcher 3: Wild Hunt was released for Microsoft Windows, PlayStation 4, and Xbox One in May 2015, with a Nintendo  version released in October 2019. The game received critical acclaim, with praise for its gameplay, narrative, world design, combat, and visuals, although it received minor criticism due to technical issues. It received numerous Game of the Year awards and has been cited as one of the greatest video games ever made. It was also a commercial success, shipping more than 20 million copies by June 2019. Two expansions were also released to critical acclaim: Hearts of Stone and Blood and Wine. A Game of the Year edition was released in August 2016, with the base game, expansions, and all downloadable content.</string>
+    <string name="Game4Description">Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series and is a prequel to the 2010 game Red Dead Redemption.</string>
+    <string name="Game5Description">Fallout 4 is an action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. It is the fifth major installment in the Fallout series and was released worldwide on November 10, 2015, for Microsoft Windows, PlayStation 4 and Xbox One.</string>
+    <string name="Game6Description">The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo, released for the Nintendo Switch and Wii U consoles on March 3, 2017.</string>
+    <string name="Game7Description">Metal Gear Solid V: The Phantom Pain is a stealth game developed by Kojima Productions and published by Konami. It was released worldwide for Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 and Xbox One on September 1, 2015.</string>
+    <string name="Game8Description">No Man\'s Sky is an exploration survival game developed and published by the indie studio Hello Games. It was released worldwide for the PlayStation 4 and Microsoft Windows in August 2016, and for Xbox One in July 2018. The game is built around four pillars: exploration, survival, combat, and trading.</string>
+    <string name="Game9Description">Assassin\'s Creed IV: Black Flag is an action-adventure video game developed by Ubisoft Montreal and published by Ubisoft. It is the sixth major installment in the Assassin\'s Creed series. Its historical timeframe precedes that of Assassin\'s Creed III, though its modern-day sequences succeed III\'s own.</string>
+    <string name="Game10Description">Horizon Zero Dawn is an action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. It was released for the PlayStation 4 in 2017. The plot follows Aloy, a hunter in a world overrun by machines, who sets out to uncover her past.</string>
+    <string name="Game11Description">Mad Max is an action-adventure video game based on the Mad Max franchise. Developed by Avalanche Studios and published by Warner Bros. Interactive Entertainment, it was released for Microsoft Windows, PlayStation 4, and Xbox One in 2015. Feral Interactive published the game\'s macOS and Linux versions</string>
+
+    <string name="Menu2Text1">Home</string>
+    <string name="Menu2Text2">Downloading......</string>
+    <string name="Menu2Text3">Gallery</string>
+    <string name="Menu2Text4">About</string>
+    <string name="Menu2Text5">Contact</string>
+    <string name="Menu2Text6">Exit</string>
+
+    <string name="DownloadTitle">Information</string>
+    <string name="DownloadMsg">This will download this game.</string>
+    <string name="DownloadOption">ok</string>
+    <string name="Title">Title</string>
+    <string name="Description">Description</string>
+    <string name="Category">Category</string>
+    <string name="Thumbnail">Thumbnail</string>
+
+    <string name="DialogTag">my Dialog</string>
+
+    <string name="trailer">trailer</string>
+    <string name="Game1Trailer">https://www.youtube.com/watch?v=QkkoHAzjnUs</string>
+    <string name="Game2Trailer">https://www.youtube.com/watch?v=ehjJ614QfeM</string>
+    <string name="Game3Trailer">https://www.youtube.com/watch?v=MmB9b5njVbA</string>
+    <string name="Game4Trailer">https://www.youtube.com/watch?v=eaW0tYpxyp0</string>
+    <string name="Game5Trailer">https://www.youtube.com/watch?v=Ih0l1C4kD3M</string>
+    <string name="Game6Trailer">https://www.youtube.com/watch?v=zw47_q9wbBE</string>
+    <string name="Game7Trailer">https://www.youtube.com/watch?v=Krc1t4HU8GI</string>
+    <string name="Game8Trailer">https://www.youtube.com/watch?v=0TIzflZjxGw</string>
+    <string name="Game9Trailer">https://www.youtube.com/watch?v=RqEKGrPnA-A</string>
+    <string name="Game10Trailer">https://www.youtube.com/watch?v=okTZb6GkU0U</string>
+    <string name="Game11Trailer">https://www.youtube.com/watch?v=d64bL-DJG-s</string>
+
+    <string name="GuestLoginToast1">User name: Admin \n Password: Admin</string>
+    <string name="GuestLoginToast2">This will Exit the Application.</string>
+    <string name="AdminUser">Admin</string>
+    <string name="AdminPass">Admin</string>
+    <string name="NoInputMsg">Enter username and password</string>
+    <string name="WrongInputMsg">Invalid Entry!</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="it_s_quick_and_easy">It\'s quick and easy.</string>
+    <string name="signupTerms">By clicking Sign Up, you agree to our Terms, Data Policy and Cookies Policy. You may receive SMS Notifications from us and can opt out any time.</string>
+    <string name="passwordForSignup">Password:</string>
+
+</resources>
